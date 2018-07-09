@@ -1,0 +1,34 @@
+C:\Users\Daven Bigelow\AppData\Local\Temporary Projects\BasicWaterMark\bin\Debug\BasicWaterMark.exe.config
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.exe.config
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.exe
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.pdb
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.xml
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.vbprojResolveAssemblyReference.cache
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.Form1.resources
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.Resources.resources
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.vbproj.GenerateResource.Cache
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.exe
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.xml
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.exe.config
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.exe
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.xml
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.exe
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.xml
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.vbprojResolveAssemblyReference.cache
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.Form1.resources
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.Resources.resources
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.vbproj.GenerateResource.Cache
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.exe.config
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.exe
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\bin\Debug\BasicWaterMark.xml
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.vbprojResolveAssemblyReference.cache
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.Form1.resources
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.Resources.resources
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.vbproj.GenerateResource.Cache
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.exe
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.xml
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Debug\BasicWaterMark.pdb

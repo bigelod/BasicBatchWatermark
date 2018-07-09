@@ -1,0 +1,33 @@
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.exe.config
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.exe
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.pdb
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.xml
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.Form1.resources
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.Resources.resources
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.vbproj.GenerateResource.Cache
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.exe
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.xml
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.pdb
+e:\Daven Bigelow\Documents\Visual Studio 2015\Projects\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.vbprojResolveAssemblyReference.cache
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.exe.config
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.exe
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.xml
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.exe
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.xml
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.vbprojResolveAssemblyReference.cache
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.Form1.resources
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.Resources.resources
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\VBBatchImageEditing\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.vbproj.GenerateResource.Cache
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.exe.config
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.exe
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.xml
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.exe
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.pdb
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\bin\Release\BasicWaterMark.xml
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.vbprojResolveAssemblyReference.cache
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.Form1.resources
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.Resources.resources
+E:\Daven Bigelow\Desktop\OpenSourceSoftware\BasicWaterMark\BasicWaterMark\obj\Release\BasicWaterMark.vbproj.GenerateResource.Cache
