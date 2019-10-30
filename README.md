@@ -1,3 +1,3 @@
 # BasicBatchWatermark
 A basic batch-image-watermark tool
-![alt text](https://www.dropbox.com/s/ti87gs0stqlwfmu/BasicWaterMark.PNG?raw=1)
+![alt text](https://www.dropbox.com/s/3d9wde1nbyiq8gn/BasicWaterMark.PNG?raw=1)
